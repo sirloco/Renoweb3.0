@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  background-color: #a9a9a9;
+}
+
+.cabecera {
+  background-color: lightgrey;
+  overflow: hidden;
+  padding: .5em 2em;
+}
+
+.nombre{
+  float: right;
+}
+
+.cabecera h1{
+  display: inline-block;
+  /* font-family: 'Zen Dots', cursive; */
+  font-family: 'Audiowide', cursive;
+
+}
